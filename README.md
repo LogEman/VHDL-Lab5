@@ -1,4 +1,4 @@
-Prelab Table:
+**Truth Table**: **INPUTS**:XYZB, **OUTPUT**:S, **PASS**: Hardware matches table
 
 | X | Y | Z | B | S | PASS |
 | :---- | :---- | :---- | :---- | :---- | :---- |
