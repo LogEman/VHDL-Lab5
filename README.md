@@ -17,7 +17,7 @@
 | 1 | 1 | 1 | 0 | 1 | X |
 | 1 | 1 | 1 | 1 | 1 | X |
 
-For O = XY + XZB + YZB
+For O = XY + XZB + YZB  
 **Inputs**: X, Y, Z, B  
 **Output**: O  
 **Match**: Tested on hardware and matches table    
